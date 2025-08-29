@@ -10,8 +10,7 @@ import {
 import {
   Area,
   AreaChart,
-  Bar,
-  BarChart,
+
   CartesianGrid,
   XAxis,
   YAxis,
